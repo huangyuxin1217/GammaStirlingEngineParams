@@ -1,2 +1,2 @@
 # GammaStirlingEngineParams
-My engineering design course project
+This is the engineering design course project in my sophomore year. Through Stirling engine design as traction, when facing specific engineering design problems, consult literature, learn relevant theoretical knowledge, and apply it to practice. Through course learning, improve engineering design ability, master material selection, advanced processing methods, Stirling engine - thermodynamics, heat transfer, material mechanics (fatigue analysis), mechanical principles (connecting rod mechanism) and other relevant theoretical knowledge, and finally completed the prototype production of Stirling engine.
