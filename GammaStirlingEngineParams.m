@@ -8,7 +8,7 @@
 % =====================================================
 
 %% 创建结构体
-geometry = struct() 吃  ;
+geometry = struct()  ;
 crank_wheel = struct();
 flame = struct();
 ambient = struct();
